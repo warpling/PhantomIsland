@@ -13,6 +13,7 @@
 		DC1CE45328F86245009E86F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC1CE45128F86245009E86F0 /* Main.storyboard */; };
 		DC1CE45528F86247009E86F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC1CE45428F86247009E86F0 /* Assets.xcassets */; };
 		DC1CE45828F86247009E86F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC1CE45628F86247009E86F0 /* LaunchScreen.storyboard */; };
+		DC1CE46028F862A8009E86F0 /* UIDevice+DeviceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC1CE45F28F862A8009E86F0 /* UIDevice+DeviceModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC1CE45428F86247009E86F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC1CE45728F86247009E86F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC1CE45928F86247009E86F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC1CE45F28F862A8009E86F0 /* UIDevice+DeviceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+DeviceModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DC1CE44B28F86245009E86F0 /* AppDelegate.swift */,
 				DC1CE44D28F86245009E86F0 /* SceneDelegate.swift */,
 				DC1CE44F28F86245009E86F0 /* ViewController.swift */,
+				DC1CE45F28F862A8009E86F0 /* UIDevice+DeviceModel.swift */,
 				DC1CE45128F86245009E86F0 /* Main.storyboard */,
 				DC1CE45428F86247009E86F0 /* Assets.xcassets */,
 				DC1CE45628F86247009E86F0 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				DC1CE45028F86245009E86F0 /* ViewController.swift in Sources */,
 				DC1CE44C28F86245009E86F0 /* AppDelegate.swift in Sources */,
 				DC1CE44E28F86245009E86F0 /* SceneDelegate.swift in Sources */,
+				DC1CE46028F862A8009E86F0 /* UIDevice+DeviceModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
